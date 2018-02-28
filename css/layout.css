@@ -445,6 +445,12 @@ ul#nav li.current a { color: #F06000; }
    cursor: pointer;
 }
 
+.portfolio-item .item-wrap .project-one {
+    vertical-align: bottom;
+    height: 210px;
+    width: 210px;
+}
+
 /* overlay */
 .portfolio-item .item-wrap .overlay {
    position: absolute;
